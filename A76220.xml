@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of the oath taken by the papists, as it was given to the governour and captaines by Fryer Darcy, lately guardian of the Franciscans in Ireland, and imployed by the rebels upon a treaty. With a short glosse upon the confused oath of the pretended Catholiques for this religious rebellion. By N.B.</title>
+            <author>N. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76220</idno>
+            <idno type="STC">Wing B143</idno>
+            <idno type="STC">Thomason E136_20</idno>
+            <idno type="STC">ESTC R15578</idno>
+            <idno type="EEBO-CITATION">99859892</idno>
+            <idno type="PROQUEST">99859892</idno>
+            <idno type="VID">156475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76220)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156475)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E136[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of the oath taken by the papists, as it was given to the governour and captaines by Fryer Darcy, lately guardian of the Franciscans in Ireland, and imployed by the rebels upon a treaty. With a short glosse upon the confused oath of the pretended Catholiques for this religious rebellion. By N.B.</title>
+                  <author>N. B.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Bladen,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDC.XLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The protestation [and oath] of the governour and captaines of the town of Drogheda for their unanimous defence of it for his Majesties use and service", p. 5-6.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Darcy, --  Fryer.</term>
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Drogheda (Ireland) --  History --  Sources --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156475:1" rendition="simple:additions"/>
+            <p>A COPIE OF THE OATH Taken by the Papiſts, as it was given to the Governour and Captaines by Fryer <hi>Darcy,</hi> lately Guardian of the Franciſcans in <hi>Ireland,</hi> and imployed by the Rebels upon a Treaty.</p>
+            <p>With a ſhort Gloſſe upon the confuſed OATH of the pretended Catholiques for this Religious Rebellion.</p>
+            <p>By <hi>N. B.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Bladen,</hi> MDC.XLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oath">
+            <pb facs="tcp:156475:2"/>
+            <pb facs="tcp:156475:2"/>
+            <head>A ſhort Gloſſe upon the confuſed Oath of the pretended Catholiques for this religi<g ref="char:EOLhyphen"/>ous Rebellion.</head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>A. B.</hi> do in the pre<g ref="char:EOLhyphen"/>ſence of Almighty GOD, and all the Angels and Saints in<note n="a" place="margin">A contradiction at firſt, ſworn on Earth, and yet at the ſame inſtant in the preſence of the Saints then in Heaven, will you attribute unto them an Omni-preſence to fill heaven &amp; earth at once, proper only to him, who is Infinite.</note>
+               <hi>Heaven,</hi> Promiſe, Vow, Sweare and<note n="b" place="margin">This is over-ſworn, we obſerve your Oath for Religion is well bound, runs ſtrongly upon 4 wheels, the next for the King is but weakly mounted on one, but there is good reaſon, this is the prime, the other but an attendant.</note> 
+               <hi>Proteſt</hi> to maine<g ref="char:EOLhyphen"/>taine and defend, as farre as I<note n="c" place="margin">That is, <hi>as farre as J am able,</hi> but we hope you are now at your furtheſt, and as S. <hi>Paul</hi> of <hi>Jannes</hi> and
+<hi>Jambres,</hi> your <hi>folly will be made mani<g ref="char:EOLhyphen"/>feſt before all men.</hi>
+               </note> 
+               <hi>may</hi> with my life, Power and Eſtate, the<note n="d" place="margin">What wanted you but the publike exerciſe of it in our
+<hi>Churches,</hi> which you have indeed of late practiſed in many places
+<hi>by violence.</hi>
+               </note> 
+               <hi>Pub<g ref="char:EOLhyphen"/>lique</hi> and<note n="e" place="margin">Were any of you fined or reſtrained in bonds for it.</note>
+               <hi>free</hi> exer<g ref="char:EOLhyphen"/>ciſe of the true and Catholique<note n="f" place="margin">As if we could not be of the Catholike Church, unles of the <hi>Roman,</hi> as much to ſay, a man could not be in <hi>Ireland,</hi> unles he were in
+<hi>Dublin.</hi> And yet by that very addition of <hi>Ro<g ref="char:EOLhyphen"/>man</hi> to Catholike by way of diſtinction is ne<g ref="char:EOLhyphen"/>ceſſarily confeſt, there is alſo a true Catholique Religion, not <hi>Romane.</hi>
+               </note> 
+               <hi>Roman</hi> Religion againſt<note n="g" place="margin">No exceptions of the King here, who hath often declared himſelf againſt it.</note> 
+               <hi>All</hi> Perſons that ſhall op<g ref="char:EOLhyphen"/>poſe the ſame.</p>
+            <pb n="2" facs="tcp:156475:3"/>
+            <p>I further ſweare, that I will beare<note n="h" place="margin">But is it not your Doctrin? no Faith need be kept with Heretiques, and hath not the Pope often declared our Kings to be ſuch?</note>
+               <hi>Faith</hi> and<note n="i" place="margin">Take heed what you doe, there are two Bulls of the Popes againſt your taking the Oath of Allegiance, and a long Tractate of Cardinall <hi>Bellarmines</hi> to ſhow the unlaw<g ref="char:EOLhyphen"/>fullneſſe of it, this is more then we preſſed you too, or looked for from you.</note>
+               <hi>Alle<g ref="char:EOLhyphen"/>giance</hi> to our Sove<g ref="char:EOLhyphen"/>raigne<note n="k" place="margin">If you be a Prieſt, you profeſſe to have no Lord even <hi>in Temporalibus,</hi> but the Pope.</note> 
+               <hi>Lord</hi> King<note n="l" place="margin">And yet the Earle of <hi>Ormond</hi> hath a Commiſſion under the Hand and Seale of our King
+<hi>Charles</hi> for the ſuppreſſing of you, as evidently runne into Rebellion againſt him.</note> 
+               <hi>Charles,</hi> his heires and Succeſſours, and that I will defend him and them, as<note n="m" place="margin">Well put in, as a good reſervation, that is, as farre as it may ſtand with the former Article, or till I am reſtrained by the Pope.</note>
+               <hi>farre</hi> as I may with my life, power and eſtate, againſt all ſuch perſons as ſhall attempt any thing a<g ref="char:EOLhyphen"/>gainſt their Royall Perſons, Honours and Eſtates or Dig<g ref="char:EOLhyphen"/>nities, and againſt all ſuch as ſhall directly or indirectly endea<g ref="char:EOLhyphen"/>vour to ſuppreſſe their Royall<note n="n" place="margin">How the ſeaſon hath altered your diſ<g ref="char:EOLhyphen"/>poſitions, were you not this laſt Summer in Parliament, directly and indirectly, the greateſt oppoſers of it, would not you have had an Act and Acts for ſuppreſſing it, <hi>Tem<g ref="char:EOLhyphen"/>pora mutantur &amp; vos,</hi> &amp;c.</note>
+               <hi>Prero<g ref="char:EOLhyphen"/>gatives,</hi> or doe any Act or Acts contra<g ref="char:EOLhyphen"/>ry to<note n="o" place="margin">It ſhould be <hi>Papall</hi> Government.</note> 
+               <hi>Regall</hi> Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>As alſo the Power and<note n="p" place="margin">Why doe you then detaine ſo many Parlia<g ref="char:EOLhyphen"/>ment men here beſieged from attending it, who are priviledged from ſo much as an ar<g ref="char:EOLhyphen"/>reſt, are you not perjured in it.</note>
+               <hi>Priviledges</hi> of Parliament, the law<g ref="char:EOLhyphen"/>full rights and Pri<g ref="char:EOLhyphen"/>viledges of the<note n="q" place="margin">Be good Subjects your ſelves firſt, and take not in the meane time a Priviledge to de<g ref="char:EOLhyphen"/>ſtroy thoſe who are ſuch.</note>
+               <hi>Sub<g ref="char:EOLhyphen"/>ject</hi> and every<note n="r" place="margin">We gueſſe whoſe apes you are in this, but the cauſe and end is much differing and the ſucceſſe will be according.</note> 
+               <hi>per<g ref="char:EOLhyphen"/>ſon</hi> that makes this
+<pb n="3" facs="tcp:156475:3"/>vow, Oath and Pro<g ref="char:EOLhyphen"/>teſtation in whatſoe<g ref="char:EOLhyphen"/>ver he ſhall doe in the lawfull purſuance of the ſame.</p>
+            <p>And to my power, as farre as I may, I will oppoſe, and by<note n="f" place="margin">'Tis no matter, whither lawfull or no.</note> 
+               <hi>All</hi> waies and means endeavour to bring to<note n="t" place="margin">
+                  <hi>Condigne,</hi> this word needs a Gloſſe in<g ref="char:EOLhyphen"/>deed for the Vulgar, but they are uſed e<g ref="char:EOLhyphen"/>nough to an unknown language, and an im<g ref="char:EOLhyphen"/>plicite Oath, may be as ſafe as an implicite faith, what the boaſt of the merit of your good works, is <hi>ex condigno,</hi> we know, but what will proove a condigne puniſhment for a pretended bad worke, I believe, the poore people will ſooner feele then under<g ref="char:EOLhyphen"/>ſtand.</note> 
+               <hi>condigne</hi> puniſhment, even to the<note n="u" place="margin">Bloudy it muſt be, or you cannot own it, enough we had of this, for murder, rob<g ref="char:EOLhyphen"/>bery and impriſonment, before we heard of this Oaths framing, onely then inflamed by him, <hi>who was a murderer from the beginning.</hi>
+               </note> 
+               <hi>loſſe</hi> of life, liberty and e<g ref="char:EOLhyphen"/>ſtate, all ſuch as ſhall either by<note n="x" place="margin">What need this, alas, have ye not cruel<g ref="char:EOLhyphen"/>ly ſtarv'd and undone thouſands that never were guilty of any of theſe, that medled not with your Religion, lived harmeleſſe and innocently by you, and were your beſt friends, who were not of that ſtrength as to force, of that diſpoſition as to be practiſing, of that reach as to be plotting, or ſo falſe as to be conſpiring, all which we freely (as having nothing to do with them) reſigne up to your ſelves again.</note> 
+               <hi>force,</hi> pra<g ref="char:EOLhyphen"/>ctice, councels, plots, conſpiracies, or other<g ref="char:EOLhyphen"/>wiſe doe or attempt any thing to the con<g ref="char:EOLhyphen"/>trary of any Article, clauſe or any thing in this preſent Vow, Oath and Proteſtati<g ref="char:EOLhyphen"/>on contained, So
+<hi>help me</hi>
+               <note n="y" place="margin">And why is there not added, <hi>And all his Saints,</hi> as your cuſtome was and is, wher<g ref="char:EOLhyphen"/>by your farewell had bin ſomewhat anſwe<g ref="char:EOLhyphen"/>rable to your entrance, but 'tis poſſible, if the Angels and Saints were preſent at the beginning of the firſt Article, they ſo abhorred the Pro<g ref="char:EOLhyphen"/>greſſe, that they would not ſtay to be witneſſes of the concluſion.</note> 
+               <hi>God.</hi>
+            </p>
+            <p>Well, <hi>God helpe you indeed,</hi> and open your eyes to ſee into this my<g ref="char:EOLhyphen"/>ſtery of Iniquity, the perjury and contradiction, with which your ſouls are in hazard; make your conſciences ſenſible of the guilt of blood, your hearts to ſmite you for making this rent in the Kingdome, and give you repentance to turne from thoſe evill wayes, leaſt in the end the miſchiefe returne upon your own heads. Would ye know whoſe ſteps
+<pb n="4" facs="tcp:156475:4"/>ye have followed formerly, you ſhall find <hi>Pſal.</hi> 83. to be the curſed <hi>E<g ref="char:EOLhyphen"/>domites</hi> and
+<hi>Iſhmaelites, Moab, Ammon,</hi> and <hi>Amalek with the Philiſtines,</hi> of whom the <hi>Pſalmiſt</hi> (by way of complaint to God) ſaith thus, <hi>They have taken crafty councells againſt thy people, and conſulted againſt thy hid<g ref="char:EOLhyphen"/>den ones; They have ſaid, come let us cut them off from being a Nation, that the name of</hi> Iſrael <hi>be no more in remembrance; they have conspired together with one conſent, ſaying, let us take to our ſelves the Houſes of God in poſſeſſion;</hi> Would ye ſee your face by way of Prophecy, looke into Saint <hi>Pauls</hi> 2.
+<hi>Tim.</hi> 3.2. <hi>In the latter daies men ſhall be unthankefull, with<g ref="char:EOLhyphen"/>out naturall affection, truce-breakers, falſe Accuſers, fierce, Traitors, hea<g ref="char:EOLhyphen"/>dy, high min<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, yet having a forme of Godlineſſe,</hi> or a pretence of Re<g ref="char:EOLhyphen"/>ligion, <hi>but denying the power of it.</hi>
+            </p>
+            <p>For ſuch of you as have bin drawne to take this unlawfull Oath, let them thinke they are no more bound to obſerve it, then
+<hi>David</hi> was by his to have kil'd <hi>Abigail, Herod</hi> to have beheaded S. <hi>Iohn</hi> the Baptiſt, or the 40 <hi>Conspiratours</hi> to have ſlain S. <hi>Paul.</hi>
+            </p>
+            <p>To ſuch as have not yet taken it, let them hearken to the Councell of <hi>Salomon,</hi> 1. Pro. 10. <hi>My Son, if ſinners intice thee conſent thou not, if they ſay, Come with us, let us lay wait for blood, let us lurke privily for the innocent without cauſe; let us ſwallow them up alive as the Grave, and whole as thoſe that goe downe into the Pit. We ſhall finde all precious ſubſtance, we ſhall fill our houſes with ſpoyle. Cast in thy lot among us, let us all have one purſe. My Son, walke not thou in the way with them, refraine thy foot from their path.</hi> And for us in this Towne, <hi>Bleſſed be God, who hath not given us over as a prey unto your teeth, our ſoule is</hi> this day <hi>eſcaped as a bird out of the ſnare of the Fowler, the ſnare is broken and we are eſcaped; Bleſſed be the name of the Lord, who hath made Heaven and Earth,</hi> Pſ.
+124.6, 7, 8.</p>
+            <p>Vpon the treatie of this Fryer and others, who in the name of the Commanders of the Catholike Army (for ſo they terme it) demanded the ſurrender of this Towne of <hi>Drogheda,</hi> for his Majeſties uſe and ſervice, the Governour and Captaines of the ſaid Towne, cauſed this Proteſtation and Oath to be drawn up as followeth.</p>
+         </div>
+         <div type="protestation">
+            <pb n="5" facs="tcp:156475:4"/>
+            <head>The Proteſtation of the Governour and Captaines of the Town of <hi>Drogheda</hi> for their unanimous defence of it for his Majeſties uſe and ſervice.</head>
+            <p>VVHereas, we are beſet with ſuch, who pretend their attempt in taking of this Towne to be for the advancement of his Majeſties ſervice, (which notwithſtanding we believe, is but a pretext for the deluding of the Vulgar) We the Governour and Captaines of the ſaid Towne, for the further manifeſtation and approbation of our loyalty and faithfullneſſe to his Majeſty, by whoſe immediate Command we are here charged for the defence of his Majeſties Royall Title in it, doe like<g ref="char:EOLhyphen"/>wiſe hereby unanimouſly make this following Proteſtation and Oath, and doe enjoyne it to be taken by every Souldier and Inhabitant of this Towne, as the Evidence of their faith and truth to the Kings Crowne and Dignity, which we ſhall maintaine with our lives and eſtates, and that ſuch as ſhall refuſe it, be put out of the Gates.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <head>The Oath.</head>
+                        <p n="1">1. I Shall to my uttermoſt, endeavour the defence of this Towne againſt all outward or inward attempts whatſoever for his Majeſties Service.</p>
+                        <p n="2">2. I ſhall forthwith diſcover any Plot, Conſpiracy or Combination, which may or ſhall come to my know<g ref="char:EOLhyphen"/>ledge, from without or within, which may be any wayes intended to the prejudice of the whole Towne, or to the perſons of the Maior, Aldermen, Governour, or any of the Captaines or Officers garriſon'd in it.</p>
+                        <pb n="6" facs="tcp:156475:5"/>
+                        <p n="3">3. I ſhall not attempt, nor conſent, that the Towne ſhall be given up, upon any pretence or cauſe whatſo<g ref="char:EOLhyphen"/>ever without the conſent of the Governour, Major and greater part of the Captaines and Aldermen in it, or with<g ref="char:EOLhyphen"/>out ſome ſpeciall command from his Majeſty, or chiefe Governour or Governours of the Kingdome.</p>
+                        <p>All which I doe hereby ſweare truly and faithfully to obſerve and keepe, without any fraud, deceipt, or mentall reſervation whatſoever.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THis Oath, howſoever intending the ſafety of the Towne Officers as the Garriſon, and either rea<g ref="char:EOLhyphen"/>dily taken or offered to be taken by the Captaines, Of<g ref="char:EOLhyphen"/>ficers and all the Souldiers, yet being preſented to the Major and Aldermen, they firſt delayed it, by deſiring a Copie of it with ſome time of conſideration, and ſo after advice with their Learned (I will not ſay, Religious) Counſell, returned a flat refuſall, onely cullor'd, with a pretence of indangering the favour of a faire Quarter, which they expected from the enemy if the Towne were taken.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
